@@ -4,9 +4,7 @@
     font-weight: bold;
     text-decoration: none;
 }
-.navbar-brand span{
-    color: #2563EB;
-}
+
 .nav-link{
     font-family: sans-serif;
     font-size: 18px;
@@ -26,30 +24,17 @@
     margin-left: 80px;           
     margin-top: 45px;
 }
-#about{
-    padding: 100px 0;
-    background:white;
-}
-#about h2{
-    font-size: 50px;
-    font-weight: 700;
-   
-}
-.about-box{
-    background: white;
-    border-radius: 10px;
-    padding: 88px;
-    
 
-}
 
 .body{
     padding-top: 10px;
 }
-.html {
+
+
+html{
     scroll-behavior: smooth;
 }
 
-section {
-    scroll-margin-top: 90px;
+body{
+    padding-top:70px;
 }
